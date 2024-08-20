@@ -1,0 +1,3 @@
+img,conf_thres,iou_thres,output,flag,username,timestamp
+flagged\img\c02f270661aee91dc1bd\apple_84_jpg.rf.9da31d35cad4b72da9c1c253b64a15ad.jpg,0.25,0.45,flagged\output\902cddddc6ce3fe2e36d\image.webp,,,2024-06-04 14:30:22.587724
+flagged\img\c54bb5ae9a9c1000737b\4bb2a8d45693c14f5d989e59a5ec0758.jpg,0.25,0.5,,,,2024-06-08 11:15:21.888756

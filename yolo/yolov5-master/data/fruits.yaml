@@ -1,0 +1,9 @@
+train: C:\python-learn\yolo\yolo\datasets\fruits\train\images
+val: C:\python-learn\yolo\yolo\datasets\fruits\valid\images
+test: C:\python-learn\yolo\yolo\datasets\fruits\test\images
+
+nc: 3
+names:
+  0: apple
+  1: banana
+  2: orange
